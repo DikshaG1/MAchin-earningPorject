@@ -1,1 +1,1 @@
-# MAchin-earningPorject
+# Machine-learningPorject
